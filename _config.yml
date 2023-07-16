@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Zhaolin Yuan / Academic main page."
 title_separator          : "-"
 name                     : &name "Zhaolin YUan"
-description              : &description "Nothing"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Hello."
+url                      : https://y18810919727.github.io/yzl.academic.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/y18810919727/academic.git"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,17 +57,17 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : None
 facebook:
-  username               :
+  username               : None
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Organization
+  name                   : The Hong Kong Polytechnic University
   links: # An array of links to social media profiles
 
 
