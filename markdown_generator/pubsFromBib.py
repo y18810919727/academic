@@ -89,7 +89,7 @@ for pubsource in publist:
             #strip out {} as needed (some bibtex entries that maintain formatting)
             clean_title = b["title"].replace("{", "").replace("}","").replace("\\","").replace(" ","-")    
 
-            url_slug = re.sub("\\[.*\\]|[^a-zA-Z0-9_-]", "", clean_title)
+            url_slug = re.sub("\\[.*\\]|[^a-zA-Z0-9\u4e00-\u9fa5_-] ", "", clean_title)
             url_slug = url_slug.replace("--","-")
 
             md_filename = (str(pub_date) + "-" + url_slug + ".md").replace("--","-")
@@ -100,7 +100,11 @@ for pubsource in publist:
 
             #citation authors - todo - add highlighting for primary author?
             for author in bibdata.entries[bib_id].persons["author"]:
-                citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
+                try:
+                    citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
+                except Exception:
+                    citation = citation+" "+author.last_names[0]+", "
+
 
             #citation title
             citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
