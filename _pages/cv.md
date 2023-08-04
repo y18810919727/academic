@@ -5,30 +5,33 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /
 ---
-
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+=========
+
+* B.S. in University of Science and Technology Beijing, Computer Science and Techology, 2013.09-2017.07
+* Ph.D in University of Science and Technology Beijing，Computer Science and Techology, 2017.09-2023.01 (expected)
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+===============
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+#### 2023.01-2023.07Huawei 2012 Academia Sinica-Network Technique Lab----Post Doctor
+
+2023.01-2023.07:
+
+Huawei 2012 Academia Sinica-Network Technique Lab
+
+Research Topics:
+
+* Network flow modeling,
+* Root Cause Identification
+
 Skills
 ======
+
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -37,23 +40,27 @@ Skills
 * Skill 3
 
 Publications
-======
-  <ul>{% for post in site.publications %}
+============
+
+<ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
-======
-  <ul>{% for post in site.talks %}
+=====
+
+<ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
-======
-  <ul>{% for post in site.teaching %}
+========
+
+<ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
-======
+======================
+
 * Currently signed in to 43 different slack teams
