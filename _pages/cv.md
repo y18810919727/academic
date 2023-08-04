@@ -12,32 +12,38 @@ redirect_from:
 Education
 =========
 
-* B.S. in University of Science and Technology Beijing, Computer Science and Techology, 2013.09-2017.07
-* Ph.D in University of Science and Technology Beijing，Computer Science and Techology, 2017.09-2023.01 (expected)
+* B.S. in University of Science and Technology Beijing, Computer Science and Technology, 2013.09-2017.07
+* Ph.D in University of Science and Technology Beijing, Computer Science and Technology, 2017.09-2023.01
 
 Work experience
 ===============
 
-#### 2023.01-2023.07Huawei 2012 Academia Sinica-Network Technique Lab----Post Doctor
+### Huawei 2012 Academia Sinica-Network Technique Lab----Post Doctor
 
-2023.01-2023.07:
+**Time**
 
-Huawei 2012 Academia Sinica-Network Technique Lab
+- 2023.01-2023.07:
 
 Research Topics:
 
 * Network flow modeling,
 * Root Cause Identification
 
-Skills
-======
+### [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/)----Post Doctor
 
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Time**
+
+- 2023.08 - Now
+
+Research Topics:
+
+* Intelligent Manufacturing
+* Industrial AI
+
+**Research fields**
+===================
+
+Intelligent Manufacturing, Dynamical system modeling, Model-based reinforcement learning, Industrial system optimization, Time series analysis, Causal Discovery
 
 Publications
 ============
