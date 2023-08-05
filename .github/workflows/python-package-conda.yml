@@ -34,4 +34,4 @@ jobs:
         git config --global user.name "Your Named"
         git add -A
         git commit -m "update md files"
-        git push -u origin master
+        (git push -u origin master) || true
