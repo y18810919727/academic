@@ -33,5 +33,5 @@ jobs:
         git config --global user.email "you@example.com"
         git config --global user.name "Your Named"
         git add -A
-        git commit -m "update md files"
+        git commit -m "update md files"  --allow-empty
         (git push -u origin master) || true
