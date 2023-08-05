@@ -1,6 +1,6 @@
 ---
 title: "香港理工大学CPI项目组招收博士/博士后"
-excerpt: "香港理工大学CPI项目组招收博士/博士后<br/><img src='/_portfolio/assert/GQhuang.png'>"
+excerpt: "香港理工大学CPI项目组招收博士/博士后<br/><img src='/images/assert/GQhuang.png'>"
 collection: portfolio
 ---
 
