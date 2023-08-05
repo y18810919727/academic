@@ -23,6 +23,7 @@ jobs:
       run: |
         conda install pytest
         conda install -c conda-forge pybtex
+        rm _publications/*
         cd markdown_generator
         python pubsFromBib.py
 
