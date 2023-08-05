@@ -132,7 +132,10 @@ for pubsource in publist:
             md += "\ndate: " + str(pub_date) 
 
             md += "\nvenue: '" + html_escape(venue) + "'"
-            
+
+            if 'mark' in b.keys():
+                md += "\nmark: '" + html_escape(b["mark"]) + "'"
+
             url = False
             if "url" in b.keys():
                 if len(str(b["url"])) > 5:
