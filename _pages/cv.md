@@ -51,8 +51,8 @@ Publications
 <ul>
 {% assign pub_reverse = site.publications | reverse %}
 {% for post in pub_reverse %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
 
 Talks
 =====
