@@ -1,18 +1,19 @@
 ---
 layout: archive
-title: "简历"
-permalink: /cv(Chin)/
+title: "个人简历"
+permalink: /cv_ch/
 author_profile: true
 redirect_from:
-  - /resume-zh
+  - /resume-ch
+  - /cv_ch.html
 ---
 {% include base_path %}
 
 Education
 =========
 
-* B.S. in University of Science and Technology Beijing, Computer Science and Technology, 2013.09-2017.07
-* Ph.D in University of Science and Technology Beijing, Computer Science and Technology, 2017.09-2023.01
+* 本科，计算机科学与技术，北京科技大学, 2013.09-2017.07
+* 博士，计算机科学与技术，北京科技大学, 2017.09-2023.01
 
 Work experience
 ===============

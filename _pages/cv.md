@@ -48,7 +48,9 @@ Intelligent Manufacturing, Dynamical system modeling, Model-based reinforcement 
 Publications
 ============
 
-<ul>{% for post in site.publications | reverse %}
+<ul>
+{% assign pub_reverse = site.publications | reverse %}
+{% for post in pub_reverse %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
