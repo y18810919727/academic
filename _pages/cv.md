@@ -48,7 +48,7 @@ Intelligent Manufacturing, Dynamical system modeling, Model-based reinforcement 
 Publications
 ============
 
-<ul>{% for post in site.publications %}
+<ul>{% for post in site.publications | reverse %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
@@ -66,7 +66,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and leadership
-======================
 
-* Currently signed in to 43 different slack teams
