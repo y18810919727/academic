@@ -18,13 +18,13 @@ Education
 **Research fields**
 ===================
 
-Intelligent Manufacturing, Dynamical system modeling, Model-based reinforcement learning, Industrial system optimization, Time series analysis, Causal Discovery
+Intelligent Manufacturing, Dynamical System Modeling, Model-based Reinforcement Learning, Industrial System Optimization, Time Series Analysis, Causal Discovery
 
 Work experience
 ===============
 
 ## Huawei 2012 Network Technique Lab &emsp;  Postdoctor &emsp; 2023.01 - 2023.07
-Research Topics: Network flow modeling; Root Cause Identification
+Research Topics: Network Flow Modeling; Root Cause Identification
 
 ## The Hong Kong Polytechnic University CPI &emsp; Postdoctor &emsp; 2023.08 - until now
 Research Topics: Intelligent Manufacturing; Industrial AI
