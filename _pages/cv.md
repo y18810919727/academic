@@ -23,21 +23,11 @@ Intelligent Manufacturing, Dynamical system modeling, Model-based reinforcement 
 Work experience
 ===============
 
-### Huawei 2012 Academia Sinica-Network Technique Lab &emsp;  Postdoctor &emsp; 2023.01 - 2023.07
+## Huawei 2012 Academia Sinica-Network Technique Lab &emsp;  Postdoctor &emsp; 2023.01 - 2023.07
+Research Topics: Network flow modeling; Root Cause Identification
 
-
-Research Topics:
-
-* Network flow modeling,
-* Root Cause Identification
-
-### The Hong Kong Polytechnic University (PolyU) CPI &emsp; Postdoctor &emsp; 2023.08 - until now
-
-Research Topics:
-
-* Intelligent Manufacturing
-* Industrial AI
-
+## The Hong Kong Polytechnic University CPI &emsp; Postdoctor &emsp; 2023.08 - until now
+Research Topics: Intelligent Manufacturing; Industrial AI
 
 Honors
 ===================
