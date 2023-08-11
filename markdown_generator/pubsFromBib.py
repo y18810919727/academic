@@ -116,7 +116,7 @@ for pubsource in publist:
                     author_full_name = author.last_names[0]
                 for name in name_candidates:
                     if name in author_full_name:
-                        author_full_name = "**{}**".format(author_full_name)
+                        author_full_name = "<b>{}</b>".format(author_full_name)
                         break
                 author_full_name = author_full_name + ", "
                 citation = citation + author_full_name
