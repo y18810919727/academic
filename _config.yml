@@ -273,6 +273,12 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+name_candidates:
+  - zhaolin
+  - Zhaolin
+  - 兆麟
+  - zhao lin
+
 
 # Archives
 #  Type

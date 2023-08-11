@@ -23,6 +23,7 @@ import string
 import html
 import os
 import re
+import yaml
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
@@ -48,6 +49,9 @@ html_escape_table = {
     '"': "&quot;",
     "'": "&apos;"
     }
+
+with open(os.path.join(os.path.dirname(__file__), '..',  '_config.yml'), 'r') as f:
+    name_candidates = yaml.load(f.read(), Loader=yaml.FullLoader)['name_candidates']
 
 def html_escape(text):
     """Produce entities within text."""
@@ -100,10 +104,22 @@ for pubsource in publist:
 
             #citation authors - todo - add highlighting for primary author?
             for author in bibdata.entries[bib_id].persons["author"]:
+
+                # try:
+                #     citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
+                # except Exception:
+                #     citation = citation+" "+author.last_names[0]+", "
+                author_full_name = None
                 try:
-                    citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
+                    author_full_name = author.first_names[0]+" "+author.last_names[0]
                 except Exception:
-                    citation = citation+" "+author.last_names[0]+", "
+                    author_full_name = author.last_names[0]
+                for name in name_candidates:
+                    if name in author_full_name:
+                        author_full_name = "**{}**".format(author_full_name)
+                        break
+                author_full_name = author_full_name + ", "
+                citation = citation + author_full_name
 
 
             #citation title
@@ -129,7 +145,7 @@ for pubsource in publist:
                     md += "\nexcerpt: '" + html_escape(b["note"]) + "'"
                     note = True
 
-            md += "\ndate: " + str(pub_date) 
+            md += "\ndate: " + str(pub_date)
 
             md += "\nvenue: '" + html_escape(venue) + "'"
 
