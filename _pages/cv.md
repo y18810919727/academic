@@ -32,11 +32,11 @@ Research Topics: Intelligent Manufacturing; Industrial AI
 Honors
 ===================
 
-1. Top Ten Academic Stars in University of Science and Technology Beijing, 2023 (PhD Group)
-2. ACM-ICPC Asia Regional Contests: **Gold Medal** * 1 (**The only one in USTB**)，Silver Medal * 4 (2015-2017) ACM-ICPC EC-final/China-final: Silver Medal*1, Bronze Medal*1 (2015-2016)
+1. **Top Ten** Academic Stars in University of Science and Technology Beijing, 2023 (PhD Group)
+2. ACM-ICPC Asia Regional Contests: **Gold Medal** * 1 (2017, **The only one in USTB until now**)，Silver Medal * 4 (2015-2016) ACM-ICPC EC-final/China-final: Silver Medal*1, Bronze Medal*1
 3. The Second prize of the Chinese Electronic Association for technological progress, 2022(Ranked first in the students)
-4. The First prize of science and technology of the Chinese Gold Association * 2, (2020, 2023)
-5. Honorary title of CCF “Understanding student” in 2016
+4. The First prize of science and technology of the Chinese Gold Association * 2, (2020 and 2023, Ranked first in the students)
+5. Honorary title of CCF “Understanding student” in 2016 (100 members in China)
 6. The 7th CCF Certified Software Professional(csp): score: 360( Full score: 500), Rate: Top 1.16%,
 
 Publications
