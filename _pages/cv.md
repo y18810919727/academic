@@ -26,7 +26,7 @@ Work experience
 ## Huawei 2012 Network Technique Lab &emsp;  Researcher &emsp; 2023.01 - 2023.07
 Research Topics: Network Flow Modeling; Root Cause Identification
 
-## The Hong Kong Polytechnic University CPI &emsp; Postdoctor &emsp; 2023.08 - until now
+## The Hong Kong Polytechnic University CPI lab &emsp; Postdoctor &emsp; 2023.08 - until now
 Research Topics: Intelligent Manufacturing; Industrial AI
 
 Honors
