@@ -9,6 +9,12 @@ redirect_from:
 ---
 {% include base_path %}
 
+Biography
+=========
+Dr Zhaolin Yuan (Julian) is currently a Postdoctor in the Department of Industrial and Systems Engineering (ISE), The Hong Kong Polytechnic University. He received PhD degree in Computer Science from The University of Science and Technology Beijing in 2023. He has conducted research projects in the field of Artificial Intelligence for Smart Manufacturing and Mining with substantial government and industrial grants. He has published a series of papers on AI leading Conferences including AAAI and IJCAI, and leading international journals including IEEE TII, IEEE JAS and etc. He has also obtained dozens of patents and copyrights.
+His research interests include Intelligent Manufacturing, Artificial Intelligence in Fashion, Industrial System Optimization, Model-based Reinforcement Learning, etc.  
+=========
+
 Education
 =========
 
@@ -18,7 +24,7 @@ Education
 **Research fields**
 ===================
 
-Intelligent Manufacturing, Dynamical System Modeling, Model-based Reinforcement Learning, Industrial System Optimization, Time Series Analysis, Causal Discovery
+Intelligent Manufacturing, Artificial Intelligence in Fashion, Industrial System Optimization, Model-based Reinforcement Learning, Time Series Analysis
 
 Work experience
 ===============
