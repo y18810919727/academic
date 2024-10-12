@@ -77,5 +77,5 @@ Academic Services
 ===================
 Reviewer
 
-IEEE International Conference on Robotics and Automation
-International Journal of Control, Automation and Systems
+* IEEE International Conference on Robotics and Automation
+* International Journal of Control, Automation and Systems
