@@ -73,3 +73,9 @@ This project belongs to the National Key Research and Development Program of Chi
 Functions: Intelligent control, production management, visual detection, and real-time 3D backfilling visualization.
 Responsibility: Team management, technical route design, system prototype design, and control algorithm design.
 
+Academic Services
+===================
+Reviewer
+
+IEEE International Conference on Robotics and Automation
+International Journal of Control, Automation and Systems
