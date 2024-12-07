@@ -16,12 +16,12 @@ Dr. Zhaolin Yuan is currently a distinguished associate professor at the School 
 
 Work experience
 ===============
-## School of Intelligent Science and Technology, University of Science and Technology Beijing&emsp; Associate professor&emsp;2024.12 - until now
+## 2024.12 - until now &emsp; School of Intelligent Science and Technology, University of Science and Technology Beijing &emsp; Associate professor
 
-## The Hong Kong Polytechnic University CPI lab &emsp; Postdoctor &emsp; 2023.08 - 2024.12
+## 2023.08 - 2024.12 &emsp; The Hong Kong Polytechnic University CPI lab &emsp; Postdoctor 
 Research Topics: Intelligent Manufacturing; Industrial AI
 
-## Huawei 2012 Network Technique Lab &emsp;  Researcher &emsp; 2023.01 - 2023.07
+## 2023.01 - 2023.07 &emsp; Huawei 2012 Network Technique Lab &emsp; Researcher 
 Research Topics: Network Flow Modeling; Root Cause Identification
 
 **Research fields**
@@ -31,9 +31,8 @@ Intelligent Mining, Intelligent Manufacturing, LLM Applications, Industrial Worl
 
 Education
 =========
-
-* B.S. in University of Science and Technology Beijing, Computer Science and Technology, 2013.09-2017.07
-* Ph.D in University of Science and Technology Beijing, Computer Science and Technology, 2017.09-2023.01
+* 2017.09-2023.01 &emsp; Ph.D &emsp;Computer Science and Technology &emsp; University of Science and Technology Beijing
+* 2013.09-2017.07 &emsp; B.S. &emsp;Computer Science and Technology &emsp; University of Science and Technology Beijing
 
 Honors
 ===================
