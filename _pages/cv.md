@@ -12,27 +12,28 @@ redirect_from:
 Biography
 =========
 
-Dr Zhaolin Yuan (Julian) is currently a Postdoctor in the Department of Industrial and Systems Engineering (ISE), The Hong Kong Polytechnic University. He received PhD degree in Computer Science from The University of Science and Technology Beijing in 2023. He has conducted research projects in the field of Artificial Intelligence for Smart Manufacturing and Mining with substantial government and industrial grants. He has published more than 10 papers on Top AI Conferences including AAAI and IJCAI, and leading international journals including IEEE TII, IEEE JAS, Acta Automatica Sinica, Tunnelling and Underground Space Technology, etc. He has also obtained dozens of patents and copyrights. His research interests include Intelligent Manufacturing, Artificial Intelligence in Fashion, Industrial System Optimization, Model-based Reinforcement Learning, etc.  
+Dr. Zhaolin Yuan is currently a distinguished associate professor at the School of Intelligent Science and Technology, University of Science and Technology Beijing. He earned his Ph.D. in Computer Science from the University of Science and Technology Beijing in 2023. Subsequently, he pursued postdoctoral research at Huawei's 2012 Central Research Institute - Network Technology Laboratory in 2023 and at the Department of Industrial and Systems Engineering (ISE) at Hong Kong Polytechnic University in 2024. He has conducted research projects in the field of Artificial Intelligence for Mining and Smart Manufacturing  with substantial government and industrial grants. He has published more than 10 papers on Top AI Conferences including AAAI, and leading international journals including IEEE TNNLS, IEEE TII, IEEE JAS, Acta Automatica Sinica, Tunnelling and Underground Space Technology, etc. He has also obtained 10+ patents and copyrights. His research interests include Intelligent Mining, Intelligent Manufacturing, LLM Applications, Industrial World Model, Industrial Systems Optimization, Reinforcement Learning, etc.  
+
+Work experience
+===============
+## School of Intelligent Science and Technology, University of Science and Technology Beijing&emsp; Associate professor&emsp;2024.12 - until now
+
+## The Hong Kong Polytechnic University CPI lab &emsp; Postdoctor &emsp; 2023.08 - 2024.12
+Research Topics: Intelligent Manufacturing; Industrial AI
+
+## Huawei 2012 Network Technique Lab &emsp;  Researcher &emsp; 2023.01 - 2023.07
+Research Topics: Network Flow Modeling; Root Cause Identification
+
+**Research fields**
+===================
+
+Intelligent Mining, Intelligent Manufacturing, LLM Applications, Industrial World Model, Industrial Systems Optimization, and Reinforcement Learning, etc.  
 
 Education
 =========
 
 * B.S. in University of Science and Technology Beijing, Computer Science and Technology, 2013.09-2017.07
 * Ph.D in University of Science and Technology Beijing, Computer Science and Technology, 2017.09-2023.01
-
-**Research fields**
-===================
-
-Intelligent Manufacturing, Artificial Intelligence in Fashion, Industrial System Optimization, Model-based Reinforcement Learning, Time Series Analysis
-
-Work experience
-===============
-
-## Huawei 2012 Network Technique Lab &emsp;  Researcher &emsp; 2023.01 - 2023.07
-Research Topics: Network Flow Modeling; Root Cause Identification
-
-## The Hong Kong Polytechnic University CPI lab &emsp; Postdoctor &emsp; 2023.08 - until now
-Research Topics: Intelligent Manufacturing; Industrial AI
 
 Honors
 ===================
