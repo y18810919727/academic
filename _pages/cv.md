@@ -16,6 +16,7 @@ Dr. Zhaolin Yuan is currently a Distinguished Associate Professor at the School 
 Dr. Yuan has led multiple research projects in the fields of intelligent manufacturing and intelligent mining. He spearheaded the independent development of the "Intelligent Control and 3D Visualization System for Paste Backfill" and the "Auxiliary Decision-Making System for Mineral Processing Plants," generating cumulative economic benefits of over 40 million RMB across three domestic and international mining companies.
 He has published more than 10 papers in top-tier artificial intelligence conferences (including AAAI) and internationally recognized high-impact journals, such as IEEE TNNLS, IEEE TII, IEEE JAS, Acta Automatica Sinica, and Tunnelling and Underground Space Technology. Additionally, he has been granted over 10 patents and software copyrights.
 His research interests include intelligent mining, intelligent manufacturing, large language model applications, industrial world models, industrial system optimization, and reinforcement learning.
+
 Work experience
 ===============
 ## 2024.12 - until now &emsp; School of Intelligent Science and Technology, University of Science and Technology Beijing &emsp; Associate professor
