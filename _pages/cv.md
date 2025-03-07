@@ -40,12 +40,12 @@ Education
 Honors
 ===================
 
-1. **Top Ten** Academic Stars in University of Science and Technology Beijing, 2023 (PhD Group)
-2. ACM-ICPC Asia Regional Contests: **Gold Medal** * 1 (2017, **The only one in USTB until now**)，Silver Medal * 4 (2015-2016) ACM-ICPC EC-final/China-final: Silver Medal*1, Bronze Medal*1
-3. The Second prize of the Chinese Electronic Association for technological progress, 2022(Ranked first in the students)
-4. The First prize of science and technology of the Chinese Gold Association * 2, (2020 and 2023, Ranked first in the students)
-5. Honorary title of CCF “Understanding student” in 2016 (100 members in China)
-6. The 7th CCF Certified Software Professional(csp): score: 360( Full score: 500), Rate: Top 1.16%,
+1. 2023 Second Prize for Scientific and Technological Progress by the Chinese Institute of Electronics: Key Technologies and Applications for Simulation and Prediction of Mine Backfill Process.
+2. 2023 First Prize for Science and Technology by the China Gold Association: Research and Application of Intelligent Visualization Management and Control for Paste Backfill in Metal Mines Using Total Tailings.
+3. 2020 First Prize for Science and Technology by the China Gold Association: Research and Application of Precision Control Technology in Mineral Processing Based on Big Data Analysis.
+4. 2023 Top Ten Academic Stars (Doctoral Category) at the University of Science and Technology Beijing.
+5. 2015-2017, ACM-ICPC Asia Regional Contests: 1 Gold Medal, 4 Silver Medals; China Final: 1 Silver Medal.
+6. 2016 CCF Outstanding Undergraduate Student Honorary Title.
 
 Publications
 ============
