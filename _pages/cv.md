@@ -81,4 +81,5 @@ Academic Services
 Reviewer
 
 * IEEE International Conference on Robotics and Automation
+* IEEE Transactions on Automation Science and Engineering
 * International Journal of Control, Automation and Systems
