@@ -96,6 +96,9 @@ redirect_from:
 
 学术服务
 ===================
+学术任职
+* Meta Resources 青年编委
+
 审稿人
 * IEEE International Conference on Robotics and Automation
 * IEEE Transactions on Automation Science and Engineering
