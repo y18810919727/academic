@@ -78,6 +78,11 @@ Responsibility: Team management, technical route design, system prototype design
 
 Academic Services
 ===================
+
+Academical Positions
+
+* Meta Resources Youth Editorial Board Member
+
 Reviewer
 
 * IEEE International Conference on Robotics and Automation
