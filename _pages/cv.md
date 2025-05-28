@@ -41,11 +41,12 @@ Honors
 ===================
 
 1. 2023 Second Prize for Scientific and Technological Progress by the Chinese Institute of Electronics: Key Technologies and Applications for Simulation and Prediction of Mine Backfill Process.
-2. 2023 First Prize for Science and Technology by the China Gold Association: Research and Application of Intelligent Visualization Management and Control for Paste Backfill in Metal Mines Using Total Tailings.
-3. 2020 First Prize for Science and Technology by the China Gold Association: Research and Application of Precision Control Technology in Mineral Processing Based on Big Data Analysis.
-4. 2023 Top Ten Academic Stars (Doctoral Category) at the University of Science and Technology Beijing.
-5. 2015-2017, ACM-ICPC Asia Regional Contests: 1 Gold Medal, 4 Silver Medals; China Final: 1 Silver Medal.
-6. 2016 CCF Outstanding Undergraduate Student Honorary Title.
+2. 2025 First Prize for Science and Technology by the China Gold Association: Research on digital intelligent control technology for deep mining in Chambishi Copper Mine.
+3. 2023 First Prize for Science and Technology by the China Gold Association: Research and Application of Intelligent Visualization Management and Control for Paste Backfill in Metal Mines Using Total Tailings.
+4. 2020 First Prize for Science and Technology by the China Gold Association: Research and Application of Precision Control Technology in Mineral Processing Based on Big Data Analysis.
+5. 2023 Top Ten Academic Stars (Doctoral Category) at the University of Science and Technology Beijing.
+6. 2015-2017, ACM-ICPC Asia Regional Contests: 1 Gold Medal, 4 Silver Medals; China Final: 1 Silver Medal.
+7. 2016 CCF Outstanding Undergraduate Student Honorary Title.
 
 Publications
 ============
