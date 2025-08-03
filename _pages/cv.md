@@ -67,10 +67,8 @@ Projects & Researches
 2023/10 - 2024/12 &emsp; Hong Kong Innovation and Technology Fund (ITF-PRP) &emsp; "AI Fashion" Platform: Multi-Modal Multi-Dimensional LLM for Intelligent Social Manufacturing in Fashion &emsp; Ongoing &emsp; Project Manager  
 2023/02 - 2023/07 &emsp; Huawei 2021 Network Technology Lab R&D Project &emsp; IMOC Private Cloud Alarm Root Cause Diagnosis &emsp; Completed &emsp; Key Researcher  
 2023/01 - 2023/03 &emsp; Huawei 2021 Network Technology Lab R&D Project &emsp; Huawei Cloud Tenant Network Traffic Governance &emsp; Completed &emsp; Key Researcher  
-
-### 2019/06 - 2021/12 &emsp; Enterprise Project (>1M RMB) &emsp; Intelligent Precision Control and 3D Visualization System for Paste Backfill at Chambishi Copper Mine SE Orebody &emsp; Ongoing &emsp; Key Researcher  
-
-### 2018/05 - 2022/12 &emsp; National Key R&D Program of China &emsp; Data-Driven Intelligent Precision Control Technology for Metal Mine Paste Backfill &emsp; Completed &emsp; Key Researcher  
+2019/06 - 2021/12 &emsp; Enterprise Project (>1M RMB) &emsp; Intelligent Precision Control and 3D Visualization System for Paste Backfill at Chambishi Copper Mine SE Orebody &emsp; Ongoing &emsp; Key Researcher  
+2018/05 - 2022/12 &emsp; National Key R&D Program of China &emsp; Data-Driven Intelligent Precision Control Technology for Metal Mine Paste Backfill &emsp; Completed &emsp; Key Researcher  
 
 
 Academic Services
