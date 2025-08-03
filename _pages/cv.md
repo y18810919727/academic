@@ -19,13 +19,11 @@ His research interests include intelligent mining, intelligent manufacturing, la
 
 Work experience
 ===============
-## 2024.12 - until now &emsp; School of Intelligent Science and Technology, University of Science and Technology Beijing &emsp; Associate professor
+### 2024.12 - until now &emsp; School of Intelligent Science and Technology, University of Science and Technology Beijing &emsp; Associate professor
 
-## 2023.08 - 2024.12 &emsp; The Hong Kong Polytechnic University CPI lab &emsp; Postdoctor 
-Research Topics: Intelligent Manufacturing; Industrial AI
+### 2023.08 - 2024.12 &emsp; The Hong Kong Polytechnic University CPI lab &emsp; Postdoctor 
 
-## 2023.01 - 2023.07 &emsp; Huawei 2012 Network Technique Lab &emsp; Researcher 
-Research Topics: Network Flow Modeling; Root Cause Identification
+### 2023.01 - 2023.07 &emsp; Huawei 2012 Network Technique Lab &emsp; Researcher 
 
 **Research fields**
 ===================
@@ -39,14 +37,14 @@ Education
 
 Honors
 ===================
-
-1. 2023 Second Prize for Scientific and Technological Progress by the Chinese Institute of Electronics: Key Technologies and Applications for Simulation and Prediction of Mine Backfill Process.
-2. 2025 First Prize for Science and Technology by the China Gold Association: Research on digital intelligent control technology for deep mining in Chambishi Copper Mine.
+1. 2025 First Prize for Science and Technology by the China Gold Association: Research on digital intelligent control technology for deep mining in Chambishi Copper Mine.
+2. 2023 Second Prize for Scientific and Technological Progress by the Chinese Institute of Electronics: Key Technologies and Applications for Simulation and Prediction of Mine Backfill Process.
 3. 2023 First Prize for Science and Technology by the China Gold Association: Research and Application of Intelligent Visualization Management and Control for Paste Backfill in Metal Mines Using Total Tailings.
 4. 2020 First Prize for Science and Technology by the China Gold Association: Research and Application of Precision Control Technology in Mineral Processing Based on Big Data Analysis.
 5. 2023 Top Ten Academic Stars (Doctoral Category) at the University of Science and Technology Beijing.
-6. 2015-2017, ACM-ICPC Asia Regional Contests: 1 Gold Medal, 4 Silver Medals; China Final: 1 Silver Medal.
-7. 2016 CCF Outstanding Undergraduate Student Honorary Title.
+6. USTB School of Intelligent Science and Technology "AI Light" Dean's Medal  
+7. 2015-2017, ACM-ICPC Asia Regional Contests: 1 Gold Medal, 4 Silver Medals; China Final: 1 Silver Medal.
+8. 2016 CCF Outstanding Undergraduate Student Honorary Title.
 
 Publications
 ============
@@ -61,21 +59,26 @@ Publications
 Projects & Researches
 ===================
 
-### 2023/02 - 2023/07 &emsp; Root Cause Analysis for Private Cloud-Network Platform
-(Huawei Network lab)
-In private cloud platforms, topological relationships between devices and micro-services are always lost seriously. To identify root alarms under incomplete calling graphs, I developed a root cause analysis system based on data-driven causal discovery. The proposed technique uses the causal discovery algorithm to restore the calling chain relationships between different entity types (nearly 90 species) and different entities (200,000 species) from temporal alarm events. Now, the efficiency of the system has been tested the  and it is providing services for an operation and maintenance management system in an airport.
-Related theory and techniques: AIOPs; Causal discovery
+### 2025 - 2027    &emsp; National Postdoctoral Program for Innovative Talents (Grade C) &emsp; World Model Construction and Dynamic Concentration Control for Tailings Thickening Systems in Deep Mining &emsp; Ongoing &emsp; PI  
 
-### 2018/05 - 2022/12 &emsp; Data-based modeling and RL control for complicated industrial system &emsp; PhD project
-1. To model industrial systems with long-time delay, nonlinearity, and stochasticity from irregularly sampled offline data, I propose the Ordinary Differential Equation Recurrent State Space Model (ODE-RSSM) based on temporal variational auto-encoder and differential neural networks. The paper is acceptedby the conference AAAI2023.
-2. Most adaptive industrial controlling techniques suffer from slow learning and the high cost of trial and error. Based on offline reinforcement learning, I propose an effective pipeline to learn control policy (DDPG) from offline system trajectories and optimize the model parameters in online production. At a copper mine in Zambia, Africa, the proposed technique is employed to control the underflow concentration of deep cone thickener and the tracking error is 20% lower than the manual strategy.
-Related theory and techniques: Offline &  Model-based Reinforcement learning, Model Predictive control.
+### 2025/09 - 2027/08 &emsp; Hong Kong Innovation and Technology Fund (ITF-PRP) &emsp; Garment GenAI Hub: Blockchain-based Large Language Edge Model Sharing for Garment Knowledge and Experience Encapsulation &emsp; Ongoing &emsp; Co-I  
 
-### 2019/10 - 2022/10 &emsp; Intelligent control and decisions for paste backfilling in metal mine
- &emsp; National Key Research and Development Program of China
-This project belongs to the National Key Research and Development Program of China. I am a leader of a group of 10 people to develop a B/S paste backfilling management system in mining production.
-Functions: Intelligent control, production management, visual detection, and real-time 3D backfilling visualization.
-Responsibility: Team management, technical route design, system prototype design, and control algorithm design.
+### 2025/03 - 2027/03 &emsp; Enterprise Project (>1M RMB) &emsp; Digital-Intelligent Simulation Control and LLM-Driven Production Management System for Paste Backfill at Chambishi Copper Mine SE Orebody &emsp; Ongoing &emsp; PI  
+
+### 2025/01 - 2027/12 &emsp; National Key R&D Program of China (2030) &emsp; Key Technologies and Integrated Applications of Material** Digital Twins &emsp; Ongoing &emsp; Co-I  
+
+### 2023/06 - 2025/12 &emsp; Enterprise Project (>1M RMB) &emsp; Digital Twin System Construction for Flotation Process at Chambishi Copper Mine SE Orebody &emsp; Ongoing &emsp; Key Researcher  
+
+### 2023/10 - 2024/12 &emsp; Hong Kong Innovation and Technology Fund (ITF-PRP) &emsp; "AI Fashion" Platform: Multi-Modal Multi-Dimensional LLM for Intelligent Social Manufacturing in Fashion &emsp; Ongoing &emsp; Project Manager  
+
+### 2023/02 - 2023/07 &emsp; Huawei 2021 Network Technology Lab R&D Project &emsp; IMOC Private Cloud Alarm Root Cause Diagnosis &emsp; Completed &emsp; Key Researcher  
+
+### 2023/01 - 2023/03 &emsp; Huawei 2021 Network Technology Lab R&D Project &emsp; Huawei Cloud Tenant Network Traffic Governance &emsp; Completed &emsp; Key Researcher  
+
+### 2019/06 - 2021/12 &emsp; Enterprise Project (>1M RMB) &emsp; Intelligent Precision Control and 3D Visualization System for Paste Backfill at Chambishi Copper Mine SE Orebody &emsp; Ongoing &emsp; Key Researcher  
+
+### 2018/05 - 2022/12 &emsp; National Key R&D Program of China &emsp; Data-Driven Intelligent Precision Control Technology for Metal Mine Paste Backfill &emsp; Completed &emsp; Key Researcher  
+
 
 Academic Services
 ===================
@@ -83,6 +86,7 @@ Academic Services
 Academical Positions
 
 * Meta Resources Youth Editorial Board Member
+* 3rd China Nonferrous Metals Society Mining Informatization and Intelligentization Professional Committee, Committee Member
 
 Reviewer
 
