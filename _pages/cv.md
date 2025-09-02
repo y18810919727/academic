@@ -58,8 +58,9 @@ Publications
 Projects & Researches
 ===================
 
+* 2026/01 - 2028/12, **National Natural Science Foundation of China Young Scientists Fund (Category C)**, Differential World Model Construction and Variable Target Control for Coupled Time-Varying Process Industrial Systems, Ongoing, PI
 * 2025/08 - 2026/12, **National Postdoctoral Program for Innovative Talents (Grade C)**, World Model Construction and Dynamic Concentration Control for Tailings Thickening Systems in Deep Mining, Ongoing, PI
-* * 2025/03 - 2027/03, **Enterprise Project (>1M RMB)**, Digital-Intelligent Simulation Control and LLM-Driven Production Management System for Paste Backfill at Chambishi Copper Mine SE Orebody, Ongoing, PI
+* 2025/03 - 2027/03, **Enterprise Project (>1M RMB)**, Digital-Intelligent Simulation Control and LLM-Driven Production Management System for Paste Backfill at Chambishi Copper Mine SE Orebody, Ongoing, PI
 * 2025/09 - 2027/08, **Hong Kong Innovation and Technology Fund (ITF-PRP)**, Garment GenAI Hub: Blockchain-based Large Language Edge Model Sharing for Garment Knowledge and Experience Encapsulation, Ongoing, Co-I
 * 2025/01 - 2027/12, **National Key R&D Program of China (2030)**, Key Technologies and Integrated Applications of Material** Digital Twins, Ongoing, Co-I
 * 2023/06 - 2025/12, **Enterprise Project (>1M RMB)**, Digital Twin System Construction for Flotation Process at Chambishi Copper Mine SE Orebody, Ongoing, Key Researcher
