@@ -10,3 +10,7 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 1. 会议论文，将论文的bibtex输入至```markdown_generator/proceedings.bib```文件中。
 2. 期刊论文，将论文的bibtex输入至```markdown_generator/pubs.bib```文件中。
 > 重点信息填入mark字段。
+
+## 更新个人信息
+1. 中文版CV：_pages/cv_chin.md
+2. 英文版CV：_pages/cv.md
