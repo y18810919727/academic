@@ -152,6 +152,9 @@ for pubsource in publist:
             if 'mark' in b.keys():
                 md += "\nmark: '" + html_escape(b["mark"]) + "'"
 
+            if 'img' in b.keys():
+                md += "\nimg: '" + html_escape(b["img"]) + "'"
+
             url = False
             if "url" in b.keys():
                 if len(str(b["url"])) > 5:
