@@ -2,10 +2,13 @@
 title: "Shipment Scheduling and Routing Protocols in Cyber-Physical Internet for Prefabricated Construction Modules Logistics"
 collection: publications
 permalink: /publication/2025-01-01-Shipment-Scheduling-and-Routing-Protocols-in-Cyber-Physical-Internet-for-Prefabricated-Construction-Modules-Logistics
+excerpt: 'This paper investigates how Cyber-physical Internet (CPI) concepts can transform prefabricated construction logistics by introducing a protocol-based scheduling and routing framework designed to improve module shipment efficiency. Inspired by the logic of digital data transmission, the study draws parallels with internet communication principles to diagnose persistent challenges such as fragmented information sharing, limited coordination, and suboptimal routing decisions. To address these issues, the authors develop a suite of CPI protocols and propose a hierarchical, decentralized decision architecture governing logistics nodes. Numerical experiments and a real-world case study in the Greater Bay Area demonstrate enhanced efficiency, resilience, and collaboration, highlighting CPI’s potential to modernize complex construction logistics networks.'
 date: 2025-01-01
 venue: 'IEEE Transactions on Intelligent Transportation Systems'
 mark: 'SCI-1区, IF=8.4'
 img: 'pubs/ou2025.png'
 citation: 'Zhiyuan Ouyang, <b>Zhaolin Yuan</b>, Qiqi Chen, Ming Li, Zhiheng Zhao, George Huang, &quot;Shipment Scheduling and Routing Protocols in Cyber-Physical Internet for Prefabricated Construction Modules Logistics.&quot; IEEE Transactions on Intelligent Transportation Systems, 2025.'
 ---
+This paper investigates how Cyber-physical Internet (CPI) concepts can transform prefabricated construction logistics by introducing a protocol-based scheduling and routing framework designed to improve module shipment efficiency. Inspired by the logic of digital data transmission, the study draws parallels with internet communication principles to diagnose persistent challenges such as fragmented information sharing, limited coordination, and suboptimal routing decisions. To address these issues, the authors develop a suite of CPI protocols and propose a hierarchical, decentralized decision architecture governing logistics nodes. Numerical experiments and a real-world case study in the Greater Bay Area demonstrate enhanced efficiency, resilience, and collaboration, highlighting CPI’s potential to modernize complex construction logistics networks.
+
 Use [Google Scholar](https://scholar.google.com/scholar?q=Shipment+Scheduling+and+Routing+Protocols+in+Cyber+Physical+Internet+for+Prefabricated+Construction+Modules+Logistics){:target="_blank"} for full citation
