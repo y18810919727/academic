@@ -33,15 +33,6 @@ Work experience
 3. 2023.08 - 2024.12 &emsp; The Hong Kong Polytechnic University CPI lab &emsp; Postdoctor 
 4. 2023.01 - 2023.07 &emsp; Huawei 2012 Network Technique Lab &emsp; Researcher
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Honors
 ===================
 
