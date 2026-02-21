@@ -10,11 +10,17 @@
 ## 更新论文流程
 1. 会议论文，将论文的bibtex输入至```markdown_generator/proceedings.bib```文件中。
 2. 期刊论文，将论文的bibtex输入至```markdown_generator/pubs.bib```文件中。
-> 重点信息填入mark字段。
+
+> 部分bib文件的填入字段说明（在google scholar导出bib之后需要补充和确认的字段）
+> - mark: 顶会、高分区文章标识，如：```SCI-1区, IF=19.2```，不需要括号。
+> - note: 论文简介，不多余100个词。
+> - img: 论文附图路径，图片需要放置在images目录下，如：{pubs/ou2025.png}。
+> - url: 可直接访问的论文地址。
 
 ## 更新个人信息
 1. 中文版CV：_pages/cv_chin.md
 2. 英文版CV：_pages/cv.md
+3. 侧边栏个人信息配置: ```_config.yml```
 
 # Getting Started
 
