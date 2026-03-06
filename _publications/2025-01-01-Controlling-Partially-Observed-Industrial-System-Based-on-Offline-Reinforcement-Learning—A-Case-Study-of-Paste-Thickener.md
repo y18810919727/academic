@@ -2,9 +2,13 @@
 title: "Controlling Partially Observed Industrial System Based on Offline Reinforcement Learning—A Case Study of Paste Thickener"
 collection: publications
 permalink: /publication/2025-01-01-Controlling-Partially-Observed-Industrial-System-Based-on-Offline-Reinforcement-Learning—A-Case-Study-of-Paste-Thickener
+excerpt: 'This article proposes an offline-data-driven control strategy for paste thickening systems, addressing the challenges of high process complexity, partial observability, and environmental noise in mineral processing operations. By leveraging offline reinforcement learning, the approach eliminates the risks associated with unsafe online exploration while enabling data-efficient policy training. Operational trajectories are collected using a proportional–integral–derivative controller informed by domain knowledge, forming a reliable offline dataset. To handle constrained observation spaces, a novel algorithm—temporal batch-constrained Q-learning (TBCQ)—is developed for partially observed decision processes. Evaluations in both simulation and a real industrial paste thickener in a copper mine demonstrate improved control performance and significant tracking error reduction.'
 date: 2025-01-01
 venue: 'IEEE Transactions on Industrial Informatics'
 mark: 'SCI-1区, IF=9.9'
+img: 'pubs/yuan2024.png'
 citation: '<b>Zhaolin Yuan</b>, ZiXuan Zhang, Xiaorui Li, Yunduan Cui, Ming Li, Xiaojuan Ban, &quot;Controlling Partially Observed Industrial System Based on Offline Reinforcement Learning—A Case Study of Paste Thickener.&quot; IEEE Transactions on Industrial Informatics, 2025.'
 ---
+This article proposes an offline-data-driven control strategy for paste thickening systems, addressing the challenges of high process complexity, partial observability, and environmental noise in mineral processing operations. By leveraging offline reinforcement learning, the approach eliminates the risks associated with unsafe online exploration while enabling data-efficient policy training. Operational trajectories are collected using a proportional–integral–derivative controller informed by domain knowledge, forming a reliable offline dataset. To handle constrained observation spaces, a novel algorithm—temporal batch-constrained Q-learning (TBCQ)—is developed for partially observed decision processes. Evaluations in both simulation and a real industrial paste thickener in a copper mine demonstrate improved control performance and significant tracking error reduction.
+
 Use [Google Scholar](https://scholar.google.com/scholar?q=Controlling+Partially+Observed+Industrial+System+Based+on+Offline+Reinforcement+Learning—A+Case+Study+of+Paste+Thickener){:target="_blank"} for full citation
