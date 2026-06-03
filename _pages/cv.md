@@ -59,7 +59,10 @@ Projects & Researches
 * 2026/01 - 2028/12, **National Natural Science Foundation of China Young Scientists Fund (Category C)**, Differential World Model Construction and Variable Target Control for Coupled Time-Varying Process Industrial Systems, Ongoing, PI
 * 2025/08 - 2026/12, **National Postdoctoral Program for Innovative Talents (Grade C)**, World Model Construction and Dynamic Concentration Control for Tailings Thickening Systems in Deep Mining, Ongoing, PI
 * 2025/03 - 2027/03, **Enterprise Project (>1M RMB)**, Digital-Intelligent Simulation Control and LLM-Driven Production Management System for Paste Backfill at Chambishi Copper Mine SE Orebody, Ongoing, PI
-* 2025/09 - 2027/08, **Hong Kong Innovation and Technology Fund (ITF-PRP)**, Garment GenAI Hub: Blockchain-based Large Language Edge Model Sharing for Garment Knowledge and Experience Encapsulation, Ongoing, Co-I
+* 2026/01 - 2027/12, **Enterprise Project (>1M RMB)**,, Tonglüshan Intelligent Sorting Integrated Application Service Project, Ongoing, Participant
+* 2026/03 - 2028/02, **University-level Basic Project** - Young Teacher Future Exploration Project, Research on Unsupervised Process Industrial Material Monitoring Technology Based on Visual Foundation Models, Ongoing, PI
+* 2026/05 - 2028/04, **Young Teacher Interdisciplinary Research Cultivation Project**, Data-Simulation Coupling Driven Intelligent Prediction and Risk Early Warning of Pressure on Paste Filling Steel-Concrete Retaining Wall, Ongoing, PI
+* 2026/03 - 2028/02, **Hong Kong Innovation and Technology Fund (ITF-PRP)**, Intelligent Agent System for Collaborative Operation of the Entire Apparel Chain under Brand Ecology, Ongoing, Participant
 * 2025/01 - 2027/12, **National Key R&D Program of China (2030)**, Key Technologies and Integrated Applications of Material Digital Twins, Ongoing, Co-I
 * 2023/06 - 2025/12, **Enterprise Project (>1M RMB)**, Digital Twin System Construction for Flotation Process at Chambishi Copper Mine SE Orebody, Ongoing, Key Researcher
 * 2023/10 - 2024/12, **Hong Kong Innovation and Technology Fund (ITF-PRP)**, "AI Fashion" Platform: Multi-Modal Multi-Dimensional LLM for Intelligent Social Manufacturing in Fashion, Ongoing, Project Manager
@@ -67,6 +70,7 @@ Projects & Researches
 * 2023/01 - 2023/03, **Huawei 2021 Network Technology Lab R&D Project**, Huawei Cloud Tenant Network Traffic Governance, Completed, Key Researcher
 * 2019/06 - 2021/12, **Enterprise Project (>1M RMB)**, Intelligent Precision Control and 3D Visualization System for Paste Backfill at Chambishi Copper Mine SE Orebody, Ongoing, Key Researcher
 * 2018/05 - 2022/12, **National Key R&D Program of China**, Data-Driven Intelligent Precision Control Technology for Metal Mine Paste Backfill, Completed, Key Researcher
+
 
 Talks
 ======
