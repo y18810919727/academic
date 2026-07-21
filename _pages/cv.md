@@ -30,7 +30,7 @@ Work experience
 
 1. 2025.07 - until now &emsp; School of Intelligent Science and Technology, University of Science and Technology Beijing &emsp; Associate professor
 2. 2024.12 - 2025.07 &emsp; School of Intelligent Science and Technology, University of Science and Technology Beijing &emsp; Distinguished Associate professor
-3. 2023.08 - 2024.12 &emsp; The Hong Kong Polytechnic University CPI lab &emsp; Postdoctor 
+3. 2023.08 - 2024.12 &emsp; Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University &emsp; Postdoctoral Scholar 
 4. 2023.01 - 2023.07 &emsp; Huawei 2012 Network Technique Lab &emsp; Researcher
 
 Honors
