@@ -1,4 +1,4 @@
-<img width="589" height="26" alt="image" src="https://github.com/user-attachments/assets/7c497590-21df-4b3a-bd62-45865c14956f" />---
+---
 layout: archive
 title: "个人简历"
 permalink: /cv_ch/
