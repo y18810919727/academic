@@ -60,7 +60,7 @@ Projects & Researches
 * 2025/08 - 2026/12, **National Postdoctoral Program for Innovative Talents (Grade C)**, World Model Construction and Dynamic Concentration Control for Tailings Thickening Systems in Deep Mining, Ongoing, PI
 * 2025/03 - 2027/03, **Enterprise Project (>1M RMB)**, Digital-Intelligent Simulation Control and LLM-Driven Production Management System for Paste Backfill at Chambishi Copper Mine SE Orebody, Ongoing, PI
 * 2026/01 - 2027/12, **Enterprise Project (>1M RMB)**,, Tonglüshan Intelligent Sorting Integrated Application Service Project, Ongoing, Participant
-* 2026/03 - 2028/02, **University-level Basic Project** - Young Teacher Future Exploration Project, Research on Unsupervised Process Industrial Material Monitoring Technology Based on Visual Foundation Models, Ongoing, PI
+* 2026/07 - 2027/06, **Open Fund of the State Key Laboratory of Intelligent Optimal Manufacturing for Mining and Metallurgical Processes**, Research on Unsupervised Process Industrial Material Monitoring Technology Based on Visual Foundation Models, Ongoing, PI
 * 2026/05 - 2028/04, **Young Teacher Interdisciplinary Research Cultivation Project**, Data-Simulation Coupling Driven Intelligent Prediction and Risk Early Warning of Pressure on Paste Filling Steel-Concrete Retaining Wall, Ongoing, PI
 * 2026/03 - 2028/02, **Hong Kong Innovation and Technology Fund (ITF-PRP)**, Intelligent Agent System for Collaborative Operation of the Entire Apparel Chain under Brand Ecology, Ongoing, Participant
 * 2025/01 - 2027/12, **National Key R&D Program of China (2030)**, Key Technologies and Integrated Applications of Material Digital Twins, Ongoing, Co-I
